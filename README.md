@@ -1,4 +1,4 @@
-# `Ex - 2 Evaluation of Prompting Techniques Across AI Platforms for Text Summarization`
+# Ex - 2 Evaluation of Prompting Techniques Across AI Platforms for Text Summarization
 
 AIM:
 
@@ -6,7 +6,7 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
-# `Prompting Techniques`
+# Prompting Techniques
 
 ## 1. Zero-Shot Prompting
 In zero-shot prompting, the AI model is given a task directly without examples. The model relies entirely on its prior training knowledge to generate the summary.
@@ -45,7 +45,7 @@ This method encourages the AI to reason step-by-step before producing the final 
 | Gemini   | High | High | High | Very Fast | Very Good | Simple summaries quickly |
 | Claude   | High | Very High | High | Medium | Excellent | Very natural and human-like summaries |
 
-## `ChatGPT`
+## ChatGPT
 
 ChatGPT performs very effectively with chain-of-thought prompting. It follows the reasoning steps carefully, identifies key information, and generates well-structured summaries. The summaries are typically accurate and logically organized.
 
@@ -61,7 +61,7 @@ High summary accuracy
 
 Slightly slower compared to Gemini when prompts are long.
 
-## `Gemini`
+## Gemini
 
 Gemini responds quickly to chain-of-thought prompts and produces summaries efficiently. However, it may compress reasoning steps internally, resulting in slightly shorter explanations.
 
@@ -77,7 +77,7 @@ Good readability
 
 Sometimes reduces the detailed reasoning process.
 
-## `Claude`
+## Claude
 
 Claude performs well with chain-of-thought prompting because it focuses on natural language understanding and coherent responses. Its summaries tend to be very smooth and easy to read.
 
@@ -107,7 +107,7 @@ Based on experimentation with different prompting techniques across multiple AI 
 • Claude is known for generating very natural and coherent summaries, especially when using Role-based prompts.
 • Copilot works efficiently for shorter summaries and performs best with structured prompts such as Few-shot examples.
 
-# ` Evaluation Metrics`
+#  Evaluation Metrics
 ## .1 Accuracy
 
 Accuracy measures how well the summary represents the original text without losing important information.
@@ -152,7 +152,7 @@ Ease of prompt interaction
 
 Good user experience improves productivity when using AI tools.
 
-# `Result`
+# Result
 
 From the evaluation, it was observed that:
 
