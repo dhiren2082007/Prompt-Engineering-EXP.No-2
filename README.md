@@ -1,4 +1,4 @@
-# `Evaluation of Prompting Techniques Across AI Platforms for Text Summarization`
+# `Ex - 2 Evaluation of Prompting Techniques Across AI Platforms for Text Summarization`
 
 AIM:
 
