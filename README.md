@@ -1,4 +1,4 @@
-EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+[EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 AIM:
 
@@ -23,3 +23,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
+](https://github.com/iyyappans217-max/Prompt-Engineering-EXP.No-2)
